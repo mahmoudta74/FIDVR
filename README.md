@@ -1,24 +1,9 @@
 # FIDVR
 ### <font color=blue>FIDVR Analysis For Khorasan's Power Grid (North-East Of Iran) by Using Time Series Forecasting.</font>
 
-- Main 1
- - sub 1
- - sub 2
-   - sub 2-1
-   - sub 2-2
-     - sub 2-2-1
-   
-- main 2
-- main 3
+- [Dataset Generation By RMS Simulations In Powerfactory DIgSILENT](https://github.com/mahmoudta74/FIDVR/blob/main/Dataset_Generation.py)
+- [Define and Tranin RS Index Predictor](https://github.com/mahmoudta74/FIDVR/blob/main/Define%20and%20Train%20Model.ipynb)
+- [Evaluate Load Shedding scheme](https://github.com/mahmoudta74/FIDVR/blob/main/Simulation%20and%20Results.ipynb)
 
-1. Main list 1
-2. Main list 2
-  - Sub list 2-1
-  - Sub list 2-2
-    - Sub list 2-2-2
-    - Sub list 2-2-2
-
-3. Main list 3
-
-## Khorasan Single Line Diagram
+#### Khorasan Single Line Diagram
 ![](/Khorasan%202.png "Title: khorasan SLD")
